@@ -1,5 +1,8 @@
-# supervised-machine-learning-hw
-this is a repository for challenge #19 on supervised machine learning in my data analytics bootcamp.
+# Prediction:
+This dataset is a collection of numerical data. The random forest and logistic regression algorithms are used for many different methods of classification and regression. I believe that the logistic regression will be a better fit for the data,as there are few 'explanatory variables' in the dataset.
+
+# Reflection:
+As I predicted, the logistic regression performed better than the random forest algorithm, however I did not expect the two to have such close scores (logistic regression score = 0.9918 , random forest regression score = 0.9915). Perhaps there will be a larger difference between the two if the data is scaled.
 
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
